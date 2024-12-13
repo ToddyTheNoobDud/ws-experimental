@@ -1,7 +1,7 @@
 {
-  "name": "ws",
-  "version": "8.18.0",
-  "description": "Simple to use, blazing fast and thoroughly tested websocket client and server for Node.js",
+  "name": "ws-experimental",
+  "version": "8.18.1",
+  "description": "Fork of ws, optimized by mushroom0162 while beign experimental",
   "keywords": [
     "HyBi",
     "Push",
@@ -10,13 +10,13 @@
     "WebSockets",
     "real-time"
   ],
-  "homepage": "https://github.com/websockets/ws",
+  "homepage": "https://github.com/ToddyTheNoobDud/ws-experimental",
   "bugs": "https://github.com/websockets/ws/issues",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/websockets/ws.git"
+    "url": "git+https://github.com/ToddyTheNoobDud/ws-experimental"
   },
-  "author": "Einar Otto Stangvik <einaros@gmail.com> (http://2x.io)",
+  "author": "Einar Otto Stangvik <einaros@gmail.com> (http://2x.io) and mushroom0162",
   "license": "MIT",
   "main": "index.js",
   "exports": {
